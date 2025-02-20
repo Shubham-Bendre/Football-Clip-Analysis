@@ -55,6 +55,20 @@ football_analysis/
 ## 🎥 Output
 The system takes raw match footage, detects all relevant entities, tracks their movement, and generates an **annotated video** with real-time insights.
 
+## 📸 Screenshots
+
+### 1️⃣ Input Video
+![Input Video](./images/home.png)
+
+### 2️⃣ Base YOLO v5 processing
+![Campground Listings](./images/find.png)
+
+### 3️⃣ Training on Dataset using RoboFlow
+![Campground Details](./images/select.png)
+
+### 4️⃣ Final Processed Output
+![Booking Confirmation](./images/book.png)
+
 ## 📌 Conclusion
 This project demonstrates how deep learning and computer vision can revolutionize sports analytics. By using **YOLO for real-time object detection**, it enables better **match analysis, player tracking, and performance evaluation**.
 
